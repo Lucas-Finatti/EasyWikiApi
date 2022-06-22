@@ -1,0 +1,25 @@
+{
+  "name": "easywiki",
+  "version": "1.0.0",
+  "description": "By the title that you send, give you a short description and the link to wikipedia page about it. ",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Finatti/EasyWiki.git"
+  },
+  "author": "Lucas Finatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Finatti/EasyWiki/issues"
+  },
+  "homepage": "https://github.com/Lucas-Finatti/EasyWiki#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
