@@ -72,8 +72,8 @@ Get HTML page:
             <a href=\"/wiki/Minecraft_(franchise)\" title=\"Minecraft (franchise)\"><i>Minecraft</i> (franchise)</a>...
     }
 }
-
 For get easy your reading the parse.text is not complete, because it is to extensive
+```
 
 ## Credits
 
