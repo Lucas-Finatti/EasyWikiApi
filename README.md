@@ -21,7 +21,7 @@ To clone and run this script, you'll need [Git](https://git-scm.com), [Node.js](
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Lucas-Finatti/BookFlix.git
+$ git clone https://github.com/Lucas-Finatti/EasyWikiApi.git
 
 # Go into the repository folder
 $ cd easy-wiki-api
