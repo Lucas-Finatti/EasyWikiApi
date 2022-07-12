@@ -46,7 +46,8 @@ npm run server
 The script will run the server, then you just need to send a request as Query Params:
 
 Get Description:
-```Request:addres: localhost:3000/description?title=minecraft
+```
+Request:addres: localhost:3000/description?title=minecraft
 {
 	"ns": 0,
 	"title": "Minecraft",
@@ -58,7 +59,8 @@ Get Description:
 }
 ```
 Get HTML page:
-```Request:Addres: localhost:3000/description/page?page_id=27815578
+```
+Request:Addres: localhost:3000/description/page?page_id=27815578
 {
     "parse": {
         "title": "Minecraft",
